@@ -1,3 +1,7 @@
+//agent389@gmail.com
+//answers every arp request
+//create some network chaos
+
 from scapy.all import *
 
 def chaosMonkey(packet):
